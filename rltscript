@@ -108,7 +108,7 @@ for i, v in pairs(plrGui:GetChildren()) do
 
                         Background.Visible = false
                         print("There")
-                        if a == 7734966323 then -- Place ID / Game ID
+                        if a == 7651758652 then -- Place ID / Game ID
                             loadstring(game:HttpGet('https://pastebin.com/raw/b7Q10TNA'))() --Loadstring
                             print("working")
 
