@@ -112,12 +112,12 @@ for i, v in pairs(plrGui:GetChildren()) do
                             loadstring(game:HttpGet('https://pastebin.com/raw/b7Q10TNA'))() --Loadstring
                             print("working")
 
-                        elseif a == 0 then -- Place ID / Game ID
-                            loadstring(game:HttpGet(""))() --Loadstring
+                        elseif a == 7656410885 then -- Place ID / Game ID
+                            loadstring(game:HttpGet('https://pastebin.com/raw/b7Q10TNA'))() --Loadstring
                             print("working")
 
                             --game.Players.LocalPlayer:Kick("Not Supported")
-                        else game.Players.LocalPlayer:Kick("Outdated Key, dm grumpy") --Kick Message For Free Key 
+                        else game.Players.LocalPlayer:Kick("Outdated Key or the game isnt whitelisted, dm grumpy") --Kick Message For Free Key 
 
                         end
                     else
