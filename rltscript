@@ -66,7 +66,7 @@ for i, v in pairs(plrGui:GetChildren()) do
 
                     local tableofkeys = {
                         --Free Keys
-                        "A8gtlolpeek4Ffgdxu",
+                        "HWIDa8gtlolpeek4Ffgdxu",
 
                         --Boosters Key
                         "",
