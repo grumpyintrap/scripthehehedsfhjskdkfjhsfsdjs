@@ -112,8 +112,8 @@ for i, v in pairs(plrGui:GetChildren()) do
                             loadstring(game:HttpGet('https://pastebin.com/raw/b7Q10TNA'))() --Loadstring
                             print("working")
 
-                        elseif a == 7656410885 then -- Place ID / Game ID
-                            loadstring(game:HttpGet('https://pastebin.com/raw/b7Q10TNA'))() --Loadstring
+                        elseif a == 9530846958 then -- Place ID / Game ID
+                            loadstring(game:HttpGet('https://pastebin.com/raw/QwbZt3Ye'))() --Loadstring
                             print("working")
 
                             --game.Players.LocalPlayer:Kick("Not Supported")
